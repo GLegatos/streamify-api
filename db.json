@@ -1,21 +1,10 @@
 {
   "streams": [
     {
-      "title": "I created this streams",
-      "description": "made by me",
+      "title": "React Tutorial",
+      "description": "Teaching the basics to the popular JavaScript Library",
       "userId": "110902731652684037419",
-      "id": 10
-    },
-    {
-      "title": "Nav",
-      "description": "Testing",
-      "userId": "110902731652684037419",
-      "id": 12
-    },
-    {
-      "title": "Refactor",
-      "description": "Nice!",
-      "id": 13
+      "id": 1
     }
   ]
 }
